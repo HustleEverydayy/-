@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='images\IMG_7114.JPG' width='300' height='225'>
+    <box top='92' left='115' width='77' height='23'/>
+  </image>
+  <image file='images\IMG_7115.JPG' width='300' height='225'>
+    <box top='111' left='102' width='100' height='25'/>
+  </image>
+  <image file='images\IMG_7116.JPG' width='300' height='225'>
+    <box top='168' left='124' width='53' height='16'/>
+  </image>
+  <image file='images\IMG_7117.JPG' width='300' height='225'>
+    <box top='131' left='96' width='116' height='33'/>
+  </image>
+  <image file='images\IMG_7118.JPG' width='300' height='225'>
+    <box top='98' left='116' width='71' height='21'/>
+  </image>
+  <image file='images\IMG_7119.JPG' width='300' height='225'>
+    <box top='103' left='123' width='66' height='19'/>
+  </image>
+  <image file='images\IMG_7120.JPG' width='300' height='225'>
+    <box top='101' left='117' width='76' height='21'/>
+  </image>
+  <image file='images\IMG_7121.JPG' width='300' height='225'>
+    <box top='99' left='121' width='64' height='19'/>
+  </image>
+  <image file='images\IMG_7123.JPG' width='300' height='225'>
+    <box top='130' left='133' width='66' height='19'/>
+  </image>
+  <image file='images\IMG_7124.JPG' width='300' height='225'>
+    <box top='130' left='103' width='79' height='19'/>
+  </image>
+  <image file='images\IMG_7125.JPG' width='300' height='225'>
+    <box top='176' left='134' width='43' height='13'/>
+  </image>
+  <image file='images\IMG_7126.JPG' width='300' height='225'>
+    <box top='166' left='113' width='63' height='16'/>
+  </image>
+  <image file='images\IMG_7127.JPG' width='300' height='225'>
+    <box top='129' left='119' width='66' height='19'/>
+  </image>
+  <image file='images\IMG_7128.JPG' width='300' height='225'>
+    <box top='161' left='109' width='71' height='19'/>
+  </image>
+  <image file='images\IMG_7129.JPG' width='300' height='225'>
+    <box top='144' left='117' width='76' height='18'/>
+  </image>
+  <image file='images\IMG_7130.JPG' width='300' height='225'>
+    <box top='127' left='123' width='62' height='18'/>
+  </image>
+  <image file='images\IMG_7131.JPG' width='300' height='225'>
+    <box top='134' left='110' width='64' height='20'/>
+  </image>
+  <image file='images\IMG_7132.JPG' width='300' height='225'>
+    <box top='125' left='112' width='61' height='19'/>
+  </image>
+  <image file='images\IMG_7133.JPG' width='300' height='225'>
+    <box top='129' left='110' width='74' height='20'/>
+  </image>
+</images>
+</dataset>
